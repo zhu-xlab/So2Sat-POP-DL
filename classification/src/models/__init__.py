@@ -1,0 +1,2 @@
+from models.linresnet import linear_resnet50
+from models.classification import EO2ResNet_OSM

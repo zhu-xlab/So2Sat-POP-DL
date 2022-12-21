@@ -1,0 +1,12 @@
+{"title":"standard",
+"num_epochs": 1,
+"learning_rate": 1e-4,
+"train_batch_size": 32,
+"val_batch_size": 32,
+"log_steps": 100,
+"weight_decay": 1,
+"mode": "train",
+"model_scale": 1,
+"lr_scheduler_factor": 0.1,
+"lr_scheduler_steps": [10, 25]
+}

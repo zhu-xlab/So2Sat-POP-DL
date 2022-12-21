@@ -1,0 +1,13 @@
+{"title":"standard_test",
+"num_epochs": 2,
+"learning_rate": 1e-4,
+"train_batch_size": 32,
+"val_batch_size": 1,
+"log_steps": 1,
+"weight_decay": 1e-6,
+"mode": "train",
+"model_scale": 2,
+"lr_scheduler_factor": 0.1,
+"lr_scheduler_steps": [30,40],
+"num_classes": 17
+}
